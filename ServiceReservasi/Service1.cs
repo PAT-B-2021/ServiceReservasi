@@ -83,7 +83,6 @@ namespace ServiceReservasi
             catch (Exception es)
             {
                 Console.WriteLine(es);
-                ///asadada
             }
             return a;
         }
